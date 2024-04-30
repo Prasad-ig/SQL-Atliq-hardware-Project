@@ -30,25 +30,22 @@ The dataset includes two dimension tables for customer and product details, alon
 
 **Market Share Analysis :** [SQL Market share analysis](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/blob/main/SQL%20Project_market%20share.sql)
 
-
-![regional market share](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/assets/106866283/90eb7751-84d3-4eb9-aade-2562933988b5)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Objective:** Analyze net sales by considering discounts given to customers based on royalty and product. Create SQL database views by joining multiple tables, including pre-invoice and post-invoice discounts, to generate interactive data tables. This data helps in understanding top-performing customers and products in terms of net sales.
 
 **Tools Used:** SQL for creating database views and stored procedures for interactive data table generation. Data can be exported to CSV and visualized using tools like Excel.
+
+
+
+
+![sales forecast accuracy](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/assets/106866283/9bbc91ca-fc9c-47c7-98b1-8fad0c435325)
+
+
+
+
+
+
+
+
 
 **Supply Chain Performance Assessment :**[SQL Project supply analysis](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/blob/main/SQL%20Project_market%20share.sql)
 
