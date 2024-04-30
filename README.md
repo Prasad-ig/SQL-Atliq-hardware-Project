@@ -9,7 +9,7 @@ The dataset includes two dimension tables for customer and product details, alon
 
 # Project Tasks : 
 
-**Gross Sales Analysis :**
+**Gross Sales Analysis :** [Gross sales rank](gross sales rank.png)
 **Objective:** Develop a data table for a yearly sales report, presenting gross sales data (gross price * quantity sold) for a specific customer over a customizable period. Classify markets into "Gold" and "Silver" categories based on aggregated gross sales to identify top-performing products and markets within a specified timeframe.
 
 **Tools Used:** MySQL for constructing data tables and a stored procedure for quick customization based on the interested market, product, or customer for a given period.
