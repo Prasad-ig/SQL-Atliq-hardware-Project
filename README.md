@@ -9,16 +9,20 @@ The dataset includes two dimension tables for customer and product details, alon
 
 # Project Tasks : 
 
-**Gross Sales Analysis :** [SQL Gross sales analysis](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/blob/main/SQL%20Project_gross%20sales.sql
+**Gross Sales Analysis :** [SQL Gross sales analysis](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/blob/main/SQL%20Project_gross%20sales.sql)
+0
 
 **Objective:** Develop a data table for a yearly sales report, presenting gross sales data (gross price * quantity sold) for a specific customer over a customizable period. Classify markets into "Gold" and "Silver" categories based on aggregated gross sales to identify top-performing products and markets within a specified timeframe.
 
 **Tools Used:** MySQL for constructing data tables and a stored procedure for quick customization based on the interested market, product, or customer for a given period.
 
-# Market Share Analysis :
+**Market Share Analysis :** [SQL Market share analysis](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/blob/main/SQL%20Project_market%20share.sql)
+
 **Objective:** Analyze net sales by considering discounts given to customers based on royalty and product. Create SQL database views by joining multiple tables, including pre-invoice and post-invoice discounts, to generate interactive data tables. This data helps in understanding top-performing customers and products in terms of net sales.
+
 **Tools Used:** SQL for creating database views and stored procedures for interactive data table generation. Data can be exported to CSV and visualized using tools like Excel.
-# Supply Chain Performance Assessment :
+
+**Supply Chain Performance Assessment :**[SQL Project supply analysis]()
 **Objective:** Identify variances between forecasted sales quantity and actual sold quantity to improve demand forecast accuracy. Calculate forecast accuracy data (forecast accuracy = 100% - absolute error%) for analysis based on different criteria such as customer, product, or region.
 **Tools Used:** SQL for analyzing variances and calculating forecast accuracy. Insights from this analysis facilitate improvements in demand forecast accuracy.
 
