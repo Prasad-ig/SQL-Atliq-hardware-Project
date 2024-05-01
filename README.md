@@ -34,10 +34,10 @@ The dataset includes two dimension tables for customer and product details, alon
 
 **Tools Used:** SQL for creating database views and stored procedures for interactive data table generation. Data can be exported to CSV and visualized using tools like Excel.
 
+![regional market share](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/assets/106866283/bc8058a7-e09c-4859-96ee-7e9ca9f569da)
 
 
 
-![sales forecast accuracy](https://github.com/Prasad-ig/SQL-Atliq-hardware-Project/assets/106866283/9bbc91ca-fc9c-47c7-98b1-8fad0c435325)
 
 
 
